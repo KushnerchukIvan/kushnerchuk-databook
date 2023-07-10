@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/add.png_Zone.Identifier_$DATA</file>
+        <file>images/addressbook.png</file>
+        <file>images/addressbook.png_Zone.Identifier_$DATA</file>
+        <file>images/delete.png</file>
+        <file>images/delete.png_Zone.Identifier_$DATA</file>
+        <file>images/edit.png</file>
+        <file>images/edit.png_Zone.Identifier_$DATA</file>
+        <file>images/exit.png</file>
+        <file>images/exit.png_Zone.Identifier_$DATA</file>
+        <file>images/help.png</file>
+        <file>images/help.png_Zone.Identifier_$DATA</file>
+        <file>images/new.png</file>
+        <file>images/new.png_Zone.Identifier_$DATA</file>
+        <file>images/open.png</file>
+        <file>images/open.png_Zone.Identifier_$DATA</file>
+        <file>images/print.png</file>
+        <file>images/print.png_Zone.Identifier_$DATA</file>
+        <file>images/save.png</file>
+        <file>images/save.png_Zone.Identifier_$DATA</file>
+        <file>images/undo.png</file>
+        <file>images/undo.png_Zone.Identifier_$DATA</file>
+    </qresource>
+</RCC>
